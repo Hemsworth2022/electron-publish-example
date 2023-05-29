@@ -44,7 +44,7 @@
           "config": {
             "repository": {
               "owner": "Hemsworth2022",
-              "name": "electron-publish-example",
+              "name": "electron-publish-example"
             },
             "draft": true
           }
