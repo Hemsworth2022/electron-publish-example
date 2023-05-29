@@ -45,8 +45,8 @@
             "repository": {
               "owner": "Hemsworth2022",
               "name": "electron-publish-example",
-              "draft": true
-            }
+            },
+            "draft": true
           }
         }
       ]
